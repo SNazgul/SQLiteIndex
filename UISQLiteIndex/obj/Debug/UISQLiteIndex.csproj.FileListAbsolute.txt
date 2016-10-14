@@ -1,0 +1,5 @@
+D:\Projects\GitHub\SQLiteIndex\UISQLiteIndex\obj\Debug\UISQLiteIndex.csprojResolveAssemblyReference.cache
+D:\Projects\GitHub\SQLiteIndex\UISQLiteIndex\obj\Debug\MainWindow.g.cs
+D:\Projects\GitHub\SQLiteIndex\UISQLiteIndex\obj\Debug\App.g.cs
+D:\Projects\GitHub\SQLiteIndex\UISQLiteIndex\obj\Debug\UISQLiteIndex_MarkupCompile.cache
+D:\Projects\GitHub\SQLiteIndex\UISQLiteIndex\obj\Debug\UISQLiteIndex_MarkupCompile.lref
